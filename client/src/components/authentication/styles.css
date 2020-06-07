@@ -1,0 +1,10 @@
+.form-group {
+    width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group > * {
+    margin-top: 10px !important;
+}
