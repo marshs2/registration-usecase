@@ -7,4 +7,4 @@
 ### Backend
 - Backend Code generated using express-generator (available in 'server' folder)
 
-- Data Stored in MLab (MongoDB Atlas), Database:- altimetrik-users-list
+- Data Stored in MLab (MongoDB Atlas)
